@@ -1,19 +1,19 @@
-\# Car Race
+# Car Race
 
 This project is about the Car Racing Game. It is a 2D game built on the **Pygame** library.
 
 
-\## Preview
+## Preview
 
-Preview the example live on \[StackBlitz](http://stackblitz.com/):
+Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 
-\## Tech Stack
+## Tech Stack
 
 Python, Pygame
 
 
-\## Run Locally
+## Run Locally
 
 Clone the project
 
@@ -65,9 +65,9 @@ deactivate
 ```
 
 
-\## Authors
+## Authors
 
-\- \[@Aastik-Mandil](https://www.github.com/Aastik-Mandil)
+- [@Aastik-Mandil](https://www.github.com/Aastik-Mandil)
 
 
 
